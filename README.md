@@ -12,4 +12,4 @@ A função de ativação sigmoid é comumente utilizada por redes neurais com pr
 
 Considerando uma frequencia númeral que pode existir entre dois estados possiveis
 
-Vamos criar de forma significativa o valor 10 a nível binária, que a sobreposição dos dois estados possiveis 1 ou 0 ou uma oscilação de dois valores possiveis. 
+Vamos criar de forma significativa o valor 10 a nível binária, que a sobreposição dos dois estados possiveis 1 ou 0 em um oscilação de dois valores possiveis em determinada unidade de tempo. 
